@@ -3,7 +3,7 @@ entries:
   gitrepocharm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-02T14:42:44.417117768+02:00"
+    created: "2021-09-02T17:23:40.660842187+02:00"
     description: A Helm chart for git
     digest: 765ec41c5c8cb7793ad38d706f5a24472695dd1059f05ccec51a043540323fc2
     name: gitrepocharm
@@ -14,7 +14,7 @@ entries:
   gitrepotest2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-02T14:42:44.417700683+02:00"
+    created: "2021-09-02T17:23:40.661265608+02:00"
     description: A Helm chart for Kubernetes
     digest: ead2e2bca2f9e78620a749bb44a4b8ceef9814c71272f86665d8ad123ebd7040
     name: gitrepotest2
@@ -25,7 +25,17 @@ entries:
   upgrade-rlnk:
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2021-09-02T14:42:44.41913251+02:00"
+    created: "2021-09-02T17:23:40.663252159+02:00"
+    description: Upgrade chart to version 0.2.0
+    digest: 7893fa4500d540413fdba7d62418f8eaa862fda66e68e8173a745dee17feb25c
+    name: upgrade-rlnk
+    type: application
+    urls:
+    - upgrade-rlnk-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: 1.17.0
+    created: "2021-09-02T17:23:40.662695142+02:00"
     description: Upgrade chart to version 0.2.0
     digest: 7a1327b3ec340aaf536084b89bf5ca7f48c81551cf3fc032f18dacfa88cc5c4f
     name: upgrade-rlnk
@@ -35,7 +45,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-02T14:42:44.418647245+02:00"
+    created: "2021-09-02T17:23:40.662246521+02:00"
     description: Upgrade chart to version 0.2.0
     digest: 828131cec81de3387c985fd29166a76ad43b246c235c5e91cd8bc10c776ad43c
     name: upgrade-rlnk
@@ -45,7 +55,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-02T14:42:44.418145043+02:00"
+    created: "2021-09-02T17:23:40.661789262+02:00"
     description: Upgrade chart
     digest: bcff7192cf7bd5d33e853711fd6571d048770c1c64258e4c5144173e07dc054c
     name: upgrade-rlnk
@@ -53,4 +63,4 @@ entries:
     urls:
     - upgrade-rlnk-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-02T14:42:44.415308779+02:00"
+generated: "2021-09-02T17:23:40.660269922+02:00"
