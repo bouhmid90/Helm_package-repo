@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitrepocharm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-09-02T10:58:00.83785998+02:00"
+    description: A Helm chart for git
+    digest: 765ec41c5c8cb7793ad38d706f5a24472695dd1059f05ccec51a043540323fc2
+    name: gitrepocharm
+    type: application
+    urls:
+    - gitrepocharm-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-09-02T10:58:00.835710357+02:00"
