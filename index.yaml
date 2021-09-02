@@ -3,7 +3,7 @@ entries:
   gitrepocharm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-02T14:04:28.211639818+02:00"
+    created: "2021-09-02T14:36:00.065418876+02:00"
     description: A Helm chart for git
     digest: 765ec41c5c8cb7793ad38d706f5a24472695dd1059f05ccec51a043540323fc2
     name: gitrepocharm
@@ -14,7 +14,7 @@ entries:
   gitrepotest2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-02T14:04:28.212297481+02:00"
+    created: "2021-09-02T14:36:00.066488783+02:00"
     description: A Helm chart for Kubernetes
     digest: ead2e2bca2f9e78620a749bb44a4b8ceef9814c71272f86665d8ad123ebd7040
     name: gitrepotest2
@@ -25,7 +25,17 @@ entries:
   upgrade-rlnk:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-02T14:04:28.212866642+02:00"
+    created: "2021-09-02T14:36:00.068370916+02:00"
+    description: Upgrade chart to version 0.2.0
+    digest: 828131cec81de3387c985fd29166a76ad43b246c235c5e91cd8bc10c776ad43c
+    name: upgrade-rlnk
+    type: application
+    urls:
+    - upgrade-rlnk-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-09-02T14:36:00.067496159+02:00"
     description: Upgrade chart
     digest: bcff7192cf7bd5d33e853711fd6571d048770c1c64258e4c5144173e07dc054c
     name: upgrade-rlnk
@@ -33,4 +43,4 @@ entries:
     urls:
     - upgrade-rlnk-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-02T14:04:28.210828739+02:00"
+generated: "2021-09-02T14:36:00.064186729+02:00"
